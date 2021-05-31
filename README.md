@@ -1,13 +1,20 @@
 ![Screen Shot 2021-05-26 at 11 37 27 AM](https://user-images.githubusercontent.com/54850909/119698356-c8104700-be16-11eb-90f5-f2acda6b5f87.png)
 
-## Introduction
+# Table of Contents
+* Introduction
+* Data Overview
+* Visual Analysis
+* Conclusion
+
+# Introduction
 
 This was a collaborative project for a data scince course. The repository for the full project can be found [here](https://github.com/jdbanta/DS202_Final_Project).
 
+# Data Overview
 The [data](https://www-fars.nhtsa.dot.gov/Trends/TrendsGeneral.aspx) was taken from The United States National Highway Traffic Safety Aministration website which reports statistics on fatal crashes as part of the Fatality Analysis Reporting System. This dataset is broken into many different tables making it easy to download the . This dataset is updated yearly to continue informing the US public. At the time of this analysis, data from years 1994 to 2017 was available.
 
-## My Analysis
-For my contribution to the project, I downloaded and cleaned data relating to the demographics of the traffic accident data and used it to perform visual analysis of the demographics involved in these accidents. I wanted to know more about the people who lost their lives to these crashes.
+# Visual Analysis
+For my contribution to the project, I downloaded and cleaned data relating to the demographics of the traffic accident data and used it to perform visual analysis. My goal was to learn more specifics about the people who lost their lives to these crashes.
 
 ## Gender
 ![Screen Shot 2021-05-26 at 12 50 06 PM](https://user-images.githubusercontent.com/54850909/119707578-ebd88a80-be20-11eb-8474-d833a66b2ed2.png)
@@ -42,7 +49,7 @@ This result was also interestng to me at first because the number of fatalities 
 * In the other 2,087 cases, it was unknown whether seatbelts were used
 
 
-## Conclusion
+# Conclusion
 * In general, the the number of male and female fatalities are disproportionate. Overall, twice as many men have died in traffic accidents than women. There may be many reasons for this, as discussed above.
 * The age group with the most fatalities from 1994 to 2017 was 25-34 years old. The distribution of age is slightly left-skewed as I had expected.
 * After examining seatbelt use, I found that 42.8 percent of cases did not use seatbelts and 48.4 percent did use seatbelts.
