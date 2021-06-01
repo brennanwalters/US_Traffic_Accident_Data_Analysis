@@ -3,7 +3,7 @@
 # Table of Contents
 * Introduction
 * Data Overview
-* Visual Analysis
+* Visual Analysis Results
 * Conclusion
 
 # Introduction
@@ -13,7 +13,7 @@ This was a collaborative project for a data scince course. The repository for th
 # Data Overview
 The [data](https://www-fars.nhtsa.dot.gov/Trends/TrendsGeneral.aspx) was taken from The United States National Highway Traffic Safety Aministration website which reports statistics on fatal crashes as part of the Fatality Analysis Reporting System. This dataset is broken into many different tables making it easy to download the . This dataset is updated yearly to continue informing the US public. At the time of this analysis, data from years 1994 to 2017 was available.
 
-# Visual Analysis
+# Visual Analysis Results
 For my contribution to the project, I downloaded and cleaned data relating to the demographics of the traffic accident data and used it to perform visual analysis. My goal was to learn more specifics about the people who lost their lives to these crashes.
 
 ## Gender
