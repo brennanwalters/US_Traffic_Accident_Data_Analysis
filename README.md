@@ -49,6 +49,8 @@ This result was also interestng to me at first because the number of fatalities 
 
 
 # Conclusion
+
+#### Results:
 * In general, the the number of male and female fatalities are disproportionate. Overall, twice as many men have died in traffic accidents than women. There may be many reasons for this, as discussed above. 
 * The age group with the most fatalities during this time period was 25-34 years old. 
 * After examining seatbelt use, I found that 42.8 percent of cases did not use seatbelts and 48.4 percent did use seatbelts. As discussed above, these numbers make sense considering that around 90.7% of people use seatbelts. As I also mentioned, the use of seatbelts saves thousands of lives every year, so continuing to encourage and enforce seatbelt use will reduce fatalities.
