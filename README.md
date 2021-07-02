@@ -15,7 +15,7 @@ The [data](https://www-fars.nhtsa.dot.gov/Trends/TrendsGeneral.aspx) was taken f
 # Visual Analysis Results
 For my contribution to the project, I downloaded and cleaned data relating to the demographics of the traffic accident data and used it to perform visual analysis. My goal was to learn more specifics about the people who lost their lives to these crashes.
 
-## Sex
+## Gender
 ![Screen Shot 2021-05-26 at 12 50 06 PM](https://user-images.githubusercontent.com/54850909/119707578-ebd88a80-be20-11eb-8474-d833a66b2ed2.png)
 
 We see that, over this time period, the number of male fatalities was more than double the number of female fatalities. This result was somewhat surprising to me and I wondered why that was the case. According to this [article](https://www.iihs.org/topics/fatality-statistics/detail/males-and-females) by The Insurance Institute for Highway Safety (IIHS), this is due to the fact that men typically drive more miles than women and are more likely to exhibit risky driving behavior (e.g. not using seatbelts, drunk driving, speeding, etc.). The article states that "crashes involving male drivers often are more severe than those involving female drivers. However, females are more likely than males to be killed or injured in crashes of equal severity, although sex differences in fatality risk diminish with age."
